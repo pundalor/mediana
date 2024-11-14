@@ -1,0 +1,14 @@
+C:\Users\ми\source\repos\Mediana\Mediana\bin\Debug\net8.0\Mediana.exe
+C:\Users\ми\source\repos\Mediana\Mediana\bin\Debug\net8.0\Mediana.deps.json
+C:\Users\ми\source\repos\Mediana\Mediana\bin\Debug\net8.0\Mediana.runtimeconfig.json
+C:\Users\ми\source\repos\Mediana\Mediana\bin\Debug\net8.0\Mediana.dll
+C:\Users\ми\source\repos\Mediana\Mediana\bin\Debug\net8.0\Mediana.pdb
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.AssemblyInfoInputs.cache
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.AssemblyInfo.cs
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.csproj.CoreCompileInputs.cache
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.dll
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\refint\Mediana.dll
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.pdb
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.genruntimeconfig.cache
+C:\Users\ми\source\repos\Mediana\Mediana\obj\Debug\net8.0\ref\Mediana.dll
